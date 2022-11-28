@@ -12,10 +12,10 @@ article.content .forcePageBlockSectionRow ~ .forcePageBlockSectionRow{
     display:none;
 }
 .embedded-service .fab {
-    background: #00D9A5 !important;
+    background: #a5c422 !important;
 }
 .embeddedServiceSidebarMinimizedFabDefaultUI button.fab {
-    background: #00D9A5 !important;
+    background: #a5c422 !important;
 }
 
 .embeddedServiceSidebarButton {
