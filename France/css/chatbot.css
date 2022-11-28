@@ -60,6 +60,15 @@ div.content.notification.showMinimizedNotification{
     display:none;
 }
 
-.embeddedServiceLiveAgentStateChatItem .isCommunitiesContext .avatar{
+.embeddedServiceLiveAgentStateChatItem .isLightningOutContext .avatar{
     transform: translate(0px, 0px) !important;
+    position: absolute;
+    bottom: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-size: cover;
+    border: none;
+    float: left;
+    margin: 0 6px 6px 0;
 }
