@@ -1,0 +1,74 @@
+.forceTopicFeaturedTopics .topicContent .topicLabel {
+    font-size: 18px !important;
+    font-weight: 300 !important
+}
+button.dialogButton.dialog-button-1.uiButton--inverse.uiButton.embeddedServiceSidebarButton  {
+    display:none;
+}
+.uiTooltip.tooltip-trigger{
+    display:none !important;
+}
+article.content .forcePageBlockSectionRow ~ .forcePageBlockSectionRow{
+    display:none;
+}
+.embedded-service .fab {
+    background: #00D9A5 !important;
+}
+.embeddedServiceSidebarMinimizedFabDefaultUI button.fab {
+    background: #00D9A5 !important;
+}
+
+.embeddedServiceSidebarButton {
+    border-radius: 85px !important;
+}
+
+button.rich-menu-item.embeddedServiceLiveAgentStateChatRichItem {
+    text-align: left;
+    border-radius: 25px 25px 25px 25px !important;
+    border: solid 1px #001965;
+    margin-top: 4px;
+    padding: 12px 15px !important;
+}
+
+button.rich-menu-itemOptionIsClicked.embeddedServiceLiveAgentStateChatRichItem {
+    text-align: left;
+    border-radius: 25px 25px 25px 25px !important;
+    border: solid 1px #001965;
+    margin-top: 4px;
+    padding: 12px 15px !important;
+    background: none !important;
+}
+
+.rich-menu {
+    margin-left: 40px !important;
+    width: 70% !important;
+}
+
+.chatContent li {
+    border: none !important;
+}
+
+lightning-formatted-rich-text.slds-rich-text-editor__output{
+    text-align: left !important;
+}
+
+.chasitorInputWrapper {
+    display: none;
+}  
+
+div.content.notification.showMinimizedNotification{
+    display:none;
+}
+
+.embeddedServiceLiveAgentStateChatItem .isLightningOutContext .avatar{
+    transform: translate(0px, 0px) !important;
+    position: absolute;
+    bottom: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-size: cover;
+    border: none;
+    float: left;
+    margin: 0 6px 6px 0;
+}
