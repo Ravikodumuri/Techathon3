@@ -91,5 +91,5 @@ div.content.notification.showMinimizedNotification{
 }
 
 .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {
-    background: #4bc5b8;
+    background: #4bc5b8 !important;
 }
