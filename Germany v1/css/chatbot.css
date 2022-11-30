@@ -20,6 +20,7 @@ article.content .forcePageBlockSectionRow ~ .forcePageBlockSectionRow{
 
 .embeddedServiceSidebarButton {
     border-radius: 85px !important;
+    background: #4bc5b8;
 }
 
 h2[embeddedService-chatHeader_chatHeader]{
