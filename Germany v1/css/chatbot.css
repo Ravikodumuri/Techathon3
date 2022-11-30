@@ -88,3 +88,7 @@ div.content.notification.showMinimizedNotification{
 .embeddedServiceSidebarMinimizedFabDefaultUI.newMessage, .embeddedServiceSidebarMinimizedFabDefaultUI.idleTimeout {
     background-color:  #4bc5b8 !important;
 }
+
+.embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {
+    background: #4bc5b8;
+}
