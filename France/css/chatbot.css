@@ -72,3 +72,8 @@ div.content.notification.showMinimizedNotification{
     float: left;
     margin: 0 6px 6px 0;
 }
+
+.embeddedServiceLiveAgentStateChat .chasitorInputWrapper {
+    border-radius: 0;
+    padding: 0px !important;
+}
